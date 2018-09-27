@@ -1,0 +1,11 @@
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.ServiceWcf\bin\Debug\Eta.ServiceWcf.dll.config
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.ServiceWcf\bin\Debug\Eta.ServiceWcf.dll
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.ServiceWcf\bin\Debug\Eta.ServiceWcf.pdb
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.ServiceWcf\bin\Debug\Eta.Data.dll
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.ServiceWcf\bin\Debug\Eta.ReviewManager.dll
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.ServiceWcf\bin\Debug\Eta.Data.pdb
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.ServiceWcf\bin\Debug\Eta.ReviewManager.pdb
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.ServiceWcf\obj\Debug\Eta.ServiceWcf.csprojResolveAssemblyReference.cache
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.ServiceWcf\obj\Debug\Eta.ServiceWcf.csproj.CoreCompileInputs.cache
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.ServiceWcf\obj\Debug\Eta.ServiceWcf.dll
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.ServiceWcf\obj\Debug\Eta.ServiceWcf.pdb

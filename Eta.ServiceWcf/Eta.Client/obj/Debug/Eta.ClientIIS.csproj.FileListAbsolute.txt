@@ -1,0 +1,9 @@
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.Client\bin\Debug\Eta.Client.exe.config
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.Client\bin\Debug\Eta.Client.exe
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.Client\bin\Debug\Eta.Client.pdb
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.Client\bin\Debug\Eta.Data.dll
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.Client\bin\Debug\Eta.Data.pdb
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.Client\obj\Debug\Eta.ClientIIS.csproj.CoreCompileInputs.cache
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.Client\obj\Debug\Eta.Client.exe
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.Client\obj\Debug\Eta.Client.pdb
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.Client\obj\Debug\Eta.ClientIIS.csprojResolveAssemblyReference.cache

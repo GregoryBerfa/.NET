@@ -1,0 +1,14 @@
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.IISApp\bin\Eta.IISApp.dll.config
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.IISApp\bin\Eta.IISApp.dll
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.IISApp\bin\Eta.IISApp.pdb
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.IISApp\bin\Eta.ServiceWcf.dll
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.IISApp\bin\Eta.Data.dll
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.IISApp\bin\Eta.ReviewManager.dll
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.IISApp\bin\Eta.ServiceWcf.pdb
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.IISApp\bin\Eta.ServiceWcf.dll.config
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.IISApp\bin\Eta.Data.pdb
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.IISApp\bin\Eta.ReviewManager.pdb
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.IISApp\obj\Debug\Eta.IISApp.csprojResolveAssemblyReference.cache
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.IISApp\obj\Debug\Eta.IISApp.csproj.CoreCompileInputs.cache
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.IISApp\obj\Debug\Eta.IISApp.dll
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.IISApp\obj\Debug\Eta.IISApp.pdb

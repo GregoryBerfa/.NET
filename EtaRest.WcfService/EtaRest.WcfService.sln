@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtaRest.WcfService", "EtaRest.WcfService\EtaRest.WcfService.csproj", "{BBB1DCB1-D5C0-464F-928E-010D9C79182C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtaRest.Data", "EtaRest.Data\EtaRest.Data.csproj", "{56C2C659-EF24-464D-A47E-84F98E1EDDC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtaRest.Business", "EtaRest.Business\EtaRest.Business.csproj", "{76B3E36B-A425-43DF-A779-965D5CDB180B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtaRest.HostConsole", "EtaRest.HostConsole\EtaRest.HostConsole.csproj", "{B5EF3B1A-4292-47E4-B9F6-686FBED76FE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtaRest.ConsoleClient", "EtaRest.ConsoleClient\EtaRest.ConsoleClient.csproj", "{5C2CE7A5-87E4-42E9-94DE-80E469047A82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBB1DCB1-D5C0-464F-928E-010D9C79182C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB1DCB1-D5C0-464F-928E-010D9C79182C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB1DCB1-D5C0-464F-928E-010D9C79182C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB1DCB1-D5C0-464F-928E-010D9C79182C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56C2C659-EF24-464D-A47E-84F98E1EDDC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C2C659-EF24-464D-A47E-84F98E1EDDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C2C659-EF24-464D-A47E-84F98E1EDDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C2C659-EF24-464D-A47E-84F98E1EDDC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B3E36B-A425-43DF-A779-965D5CDB180B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B3E36B-A425-43DF-A779-965D5CDB180B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B3E36B-A425-43DF-A779-965D5CDB180B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B3E36B-A425-43DF-A779-965D5CDB180B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EF3B1A-4292-47E4-B9F6-686FBED76FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EF3B1A-4292-47E4-B9F6-686FBED76FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EF3B1A-4292-47E4-B9F6-686FBED76FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EF3B1A-4292-47E4-B9F6-686FBED76FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C2CE7A5-87E4-42E9-94DE-80E469047A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2CE7A5-87E4-42E9-94DE-80E469047A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2CE7A5-87E4-42E9-94DE-80E469047A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2CE7A5-87E4-42E9-94DE-80E469047A82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDEA0630-1689-443F-B141-2BA5F31E9214}
+	EndGlobalSection
+EndGlobal

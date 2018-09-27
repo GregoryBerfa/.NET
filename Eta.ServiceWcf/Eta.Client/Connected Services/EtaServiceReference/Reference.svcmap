@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="7fb510a0-490f-4996-817d-1745a8f980cd" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:2395/EtaService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="EtaService.xsd" MetadataType="Schema" ID="77ad6971-722a-4b15-80e1-c49c7a9fad61" SourceId="1" SourceUrl="http://localhost:2395/EtaService.svc?xsd=xsd1" />
+    <MetadataFile FileName="EtaService1.xsd" MetadataType="Schema" ID="036abe8e-c882-455e-b39f-32f0b45beef2" SourceId="1" SourceUrl="http://localhost:2395/EtaService.svc?xsd=xsd0" />
+    <MetadataFile FileName="EtaService2.xsd" MetadataType="Schema" ID="c50b8d3a-0096-48ea-ac40-46a74f466a1f" SourceId="1" SourceUrl="http://localhost:2395/EtaService.svc?xsd=xsd2" />
+    <MetadataFile FileName="EtaService.wsdl" MetadataType="Wsdl" ID="ef19a7d6-e485-4ae3-a9e1-f9ae39aba13d" SourceId="1" SourceUrl="http://localhost:2395/EtaService.svc?wsdl" />
+    <MetadataFile FileName="EtaService.disco" MetadataType="Disco" ID="736c8444-5021-4e3e-b170-0c408b19f39d" SourceId="1" SourceUrl="http://localhost:2395/EtaService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,8 @@
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.ReviewManager\bin\Debug\Eta.ReviewManager.dll
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.ReviewManager\bin\Debug\Eta.ReviewManager.pdb
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.ReviewManager\bin\Debug\Eta.Data.dll
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.ReviewManager\bin\Debug\Eta.Data.pdb
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.ReviewManager\obj\Debug\Eta.Business.csprojResolveAssemblyReference.cache
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.ReviewManager\obj\Debug\Eta.Business.csproj.CoreCompileInputs.cache
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.ReviewManager\obj\Debug\Eta.ReviewManager.dll
+C:\Users\Thomaspro\source\repos\Eta.ServiceWcf\Eta.ReviewManager\obj\Debug\Eta.ReviewManager.pdb
