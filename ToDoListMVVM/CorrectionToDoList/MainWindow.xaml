@@ -1,0 +1,57 @@
+﻿<Window x:Class="CorrectionToDoList.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CorrectionToDoList"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="800">
+    <Grid>
+        <ListView x:Name="tacheAfaire" ItemsSource="{Binding ListeTacheAFaire}" HorizontalAlignment="Left" Height="235" Margin="10,77,0,0" VerticalAlignment="Top" Width="252">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Titre" Width="125" DisplayMemberBinding="{Binding Titre}"/>
+                    <GridViewColumn Header="Priorité" Width="125" DisplayMemberBinding="{Binding Priorite}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Titre:" HorizontalAlignment="Left" Margin="22,10,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="64,13,0,0" TextWrapping="Wrap" Text="{Binding TitreTache, Mode=TwoWay}" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Déscription:" HorizontalAlignment="Left" Margin="202,10,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="275,13,0,0" TextWrapping="Wrap" Text="{Binding DescriptionTache, Mode=TwoWay}" VerticalAlignment="Top" Width="296"/>
+        <ComboBox ItemsSource="{Binding ListePriorite}" SelectedItem="{Binding PrioriteTache,Mode=TwoWay}" HorizontalAlignment="Left" Margin="576,13,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Valider" Command="{Binding CommandSave}" CommandParameter="{Binding SelectedTache}" HorizontalAlignment="Left" Margin="701,13,0,0" VerticalAlignment="Top" Width="75" Height="23"/>
+        <Label Content="Tâches à faire" HorizontalAlignment="Left" Margin="10,46,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Modifier" Command="{Binding CommandEdit}" CommandParameter="{Binding ElementName=tacheAfaire, Path=SelectedItem}" HorizontalAlignment="Left" Margin="10,317,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Déplacer" Command="{Binding CommandMoveFromAfaire}" CommandParameter="{Binding ElementName=tacheAfaire, Path=SelectedItem}" HorizontalAlignment="Left" Margin="90,317,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Supprimer" Command="{Binding CommandDeleteAfaire}" CommandParameter="{Binding ElementName=tacheAfaire, Path=SelectedItem}" HorizontalAlignment="Left" Margin="170,317,0,0" VerticalAlignment="Top" Width="92"/>
+        <Button Content="Détail" Command="{Binding CommandDetail}" CommandParameter="{Binding ElementName=tacheAfaire, Path=SelectedItem}" HorizontalAlignment="Left" Margin="10,341,0,0" VerticalAlignment="Top" Width="252"/>
+        <ListView x:Name="tacheEncours" ItemsSource="{Binding ListeTacheEnCours}" HorizontalAlignment="Left" Height="235" Margin="275,77,0,0" VerticalAlignment="Top" Width="252">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Titre" DisplayMemberBinding="{Binding Titre}" Width="125"/>
+                    <GridViewColumn Header="Priorité" DisplayMemberBinding="{Binding Priorite}" Width="125"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Tâches En cours" HorizontalAlignment="Left" Margin="275,46,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Modifier" Command="{Binding CommandEdit}" CommandParameter="{Binding ElementName=tacheEncours, Path=SelectedItem}" HorizontalAlignment="Left" Margin="275,317,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Déplacer" Command="{Binding CommandMoveFromEnCours}" CommandParameter="{Binding ElementName=tacheEncours, Path=SelectedItem}" HorizontalAlignment="Left" Margin="355,317,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Supprimer" Command="{Binding CommandDeleteEnCours}" CommandParameter="{Binding ElementName=tacheEncours, Path=SelectedItem}" HorizontalAlignment="Left" Margin="435,317,0,0" VerticalAlignment="Top" Width="92"/>
+        <Button Content="Détail" Command="{Binding CommandDetail}" CommandParameter="{Binding ElementName=tacheEncours, Path=SelectedItem}" HorizontalAlignment="Left" Margin="275,341,0,0" VerticalAlignment="Top" Width="252"/>
+        <ListView x:Name="tacheTerminee" ItemsSource="{Binding ListeTacheTerminees}" HorizontalAlignment="Left" Height="235" Margin="532,77,0,0" VerticalAlignment="Top" Width="252">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Titre" DisplayMemberBinding="{Binding Titre}" Width="125"/>
+                    <GridViewColumn Header="Priorité" Width="125" DisplayMemberBinding="{Binding Priorite}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Tâches terminées" HorizontalAlignment="Left" Margin="532,46,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Modifier" Command="{Binding CommandEdit}" CommandParameter="{Binding ElementName=tacheTerminee, Path=SelectedItem}" HorizontalAlignment="Left" Margin="532,317,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Déplacer" Command="{Binding CommandMoveFromTerminee}" CommandParameter="{Binding ElementName=tacheTerminee, Path=SelectedItem}" HorizontalAlignment="Left" Margin="612,317,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Supprimer" Command="{Binding CommandDeleteTerminee}" CommandParameter="{Binding ElementName=tacheTerminee, Path=SelectedItem}" HorizontalAlignment="Left" Margin="692,317,0,0" VerticalAlignment="Top" Width="92"/>
+        <Button Content="Détail" Command="{Binding CommandDetail}" CommandParameter="{Binding ElementName=tacheTerminee, Path=SelectedItem}" HorizontalAlignment="Left" Margin="532,341,0,0" VerticalAlignment="Top" Width="252"/>
+
+    </Grid>
+</Window>

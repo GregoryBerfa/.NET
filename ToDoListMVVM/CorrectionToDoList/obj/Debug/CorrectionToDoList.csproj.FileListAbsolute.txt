@@ -1,0 +1,57 @@
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\bin\Debug\CorrectionToDoList.exe.config
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\bin\Debug\CorrectionToDoList.exe
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\bin\Debug\CorrectionToDoList.pdb
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\bin\Debug\CommonServiceLocator.dll
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\bin\Debug\GalaSoft.MvvmLight.dll
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\bin\Debug\System.Windows.Interactivity.dll
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\bin\Debug\GalaSoft.MvvmLight.pdb
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\bin\Debug\GalaSoft.MvvmLight.xml
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\obj\Debug\CorrectionToDoList.csprojResolveAssemblyReference.cache
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\obj\Debug\MainWindow.g.cs
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\obj\Debug\App.g.cs
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\obj\Debug\CorrectionToDoList_MarkupCompile.cache
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\obj\Debug\CorrectionToDoList_MarkupCompile.lref
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\obj\Debug\MainWindow.baml
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\obj\Debug\CorrectionToDoList.g.resources
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\obj\Debug\CorrectionToDoList.Properties.Resources.resources
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\obj\Debug\CorrectionToDoList.csproj.GenerateResource.Cache
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\obj\Debug\CorrectionToDoList.csproj.CoreCompileInputs.cache
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\obj\Debug\CorrectionToDoList.exe
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\obj\Debug\CorrectionToDoList.pdb
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\obj\Debug\ConfirmWindow.g.cs
+c:\users\formation.m2i-jav5-04\Source\Repos\CorrectionToDoList\CorrectionToDoList\obj\Debug\ConfirmWindow.baml
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\bin\Debug\CorrectionToDoList.exe.config
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\bin\Debug\CorrectionToDoList.exe
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\bin\Debug\CorrectionToDoList.pdb
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\bin\Debug\CommonServiceLocator.dll
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\bin\Debug\System.Windows.Interactivity.dll
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\obj\Debug\CorrectionToDoList.csprojAssemblyReference.cache
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\obj\Debug\ConfirmWindow.g.cs
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\obj\Debug\MainWindow.g.cs
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\obj\Debug\App.g.cs
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\obj\Debug\CorrectionToDoList_MarkupCompile.cache
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\obj\Debug\CorrectionToDoList_MarkupCompile.lref
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\obj\Debug\ConfirmWindow.baml
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\obj\Debug\MainWindow.baml
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\obj\Debug\CorrectionToDoList.g.resources
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\obj\Debug\CorrectionToDoList.Properties.Resources.resources
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\obj\Debug\CorrectionToDoList.csproj.GenerateResource.cache
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\obj\Debug\CorrectionToDoList.csproj.CoreCompileInputs.cache
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\obj\Debug\CorrectionToDoList.csproj.CopyComplete
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\obj\Debug\CorrectionToDoList.exe
+D:\Nouveau dossier\CorrectionToDoList\CorrectionToDoList\obj\Debug\CorrectionToDoList.pdb
