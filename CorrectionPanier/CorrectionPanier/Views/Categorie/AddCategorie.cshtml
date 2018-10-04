@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Ajouter une catégorie";
+}
+
+<h2>Ajouter une catégorie</h2>
+<section class="row">
+    @{Html.BeginForm("AddCategoriePost", "Categorie", FormMethod.Post);}
+        <div class="row inputForm">
+            @Html.TextBox("Label",null,new  { @class ="form-control", placeholder = "Label catégorie"})
+        </div>
+        <div class="row inputForm">
+            <button type="submit" class="btn btn-danger">Valider</button>
+        </div>
+    @{ Html.EndForm();}
+</section>
+

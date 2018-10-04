@@ -1,0 +1,23 @@
+﻿@model CorrectionPanier.ViewModel.AddProduitVM
+
+@{
+    ViewBag.Title = "Ajouter un produit";
+}
+
+<h2>Ajouter un produit</h2>
+<section class="row">
+    @{Html.BeginForm("AddProduitPost", "Produit", FormMethod.Post);}
+    <div class="row inputForm">
+        @Html.TextBox("Libelle", null, new { @class = "form-control", placeholder = "Libellé du produit" })
+    </div>
+    <div class="row inputForm">
+        @Html.TextBox("Prix", null, new { @class = "form-control", placeholder = "Prix du produit" })
+    </div>
+    <div class="row inputForm">
+        @Html.DropDownList("categorie",new SelectList(Model.ListeCateogries,"Id","Label"), new { @class = "form-control"})
+    </div>
+    <div class="row inputForm">
+        <button type="submit" class="btn btn-danger">Valider</button>
+    </div>
+    @{ Html.EndForm();}
+</section>

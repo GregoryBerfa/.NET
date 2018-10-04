@@ -1,0 +1,18 @@
+﻿@model CorrectionPanier.ViewModel.EditCategorieVM
+
+@{
+    ViewBag.Title = "Modification catégorie";
+}
+
+<h2>Modification catégorie</h2>
+<section class="row">
+    @{Html.BeginForm("AddCategoriePost", "Categorie", FormMethod.Post);}
+    @Html.Hidden("Id", Model.categorie.Id)
+    <div class="row inputForm">
+        @Html.TextBox("Label", Model.categorie.Label, new { @class = "form-control", placeholder = "Label catégorie" })
+    </div>
+    <div class="row inputForm">
+        <button type="submit" class="btn btn-danger">Valider</button>
+    </div>
+    @{ Html.EndForm();}
+</section>

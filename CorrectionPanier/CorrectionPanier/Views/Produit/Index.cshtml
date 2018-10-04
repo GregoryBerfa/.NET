@@ -1,0 +1,23 @@
+﻿@model CorrectionPanier.ViewModel.ProduitIndexVM
+
+@{
+    ViewBag.Title = "Liste Produits";
+}
+
+<h2>Liste Produits</h2>
+<section class="row">
+    @foreach(var produit in Model.ListeProduits)
+    {
+        <div class="produit col-lg-3">
+            <div class="row">
+                @produit.Libelle
+            </div>
+            <div class="row">
+                @produit.Prix €
+            </div>
+            <div class="row">
+                @Html.ActionLink("Ajouter panier","AddPanier","Produit",new { id = produit.Id}, new { @class = "btn btn-default"})
+            </div>
+        </div>
+    }
+</section>

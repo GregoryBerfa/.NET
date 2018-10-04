@@ -1,0 +1,22 @@
+﻿@model CorrectionPanier.ViewModel.PanierVM
+
+@{
+    ViewBag.Title = "Panier";
+}
+
+<h2>Mon Panier</h2>
+<section>
+    @foreach(var produit in Model.ListeProduits)
+    {
+        <div class="row">
+            <div class="col-lg-8">@produit.Libelle</div>
+            <div class="col-lg-4">@produit.Prix €</div>
+        </div>
+        <br/>
+    }
+    <div class="row">
+        <div class="col-lg-8">Total</div>
+        <div class="col-lg-4">@Model.Total €</div>
+    </div>
+</section>
+

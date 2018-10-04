@@ -1,0 +1,18 @@
+﻿@model CorrectionPanier.ViewModel.CategorieIndexVM
+
+@{
+    ViewBag.Title = "Liste Categorie";
+}
+
+<h2>Liste categorie</h2>
+<section>
+    @foreach(var categorie in Model.ListeCategories)
+    {
+    <div class="row">
+        <div class="col-lg-4">@categorie.Id</div>
+        <div class="col-lg-4">@categorie.Label</div>
+        <div class="col-lg-4">@Html.ActionLink("Modifier Catégorie","EditCategorie","Categorie",new { id = categorie.Id},null)</div>
+    </div>
+    }
+</section>
+
